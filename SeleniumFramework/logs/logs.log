@@ -1,0 +1,156 @@
+[INFO ] 2024-01-24 13:30:43.422 [main] GoogleSearch - Google search page is loading
+[INFO ] 2024-01-24 13:30:44.522 [main] GoogleSearch - Google searching for search item
+[INFO ] 2024-01-24 13:30:47.173 [main] GoogleSearch - https://www.wikipedia.org
+[INFO ] 2024-01-24 13:30:47.181 [main] GoogleSearch - Yahoo search page is loading
+[INFO ] 2024-01-24 13:31:18.349 [main] GoogleSearch - Yahoo searching for search item
+[INFO ] 2024-01-24 13:31:20.939 [main] GoogleSearch - www.wikipedia.org
+[INFO ] 2024-01-24 13:31:20.943 [main] GoogleSearch - Bing search page is loading
+[INFO ] 2024-01-24 13:31:21.650 [main] GoogleSearch - Bing searching for search item
+[INFO ] 2024-01-24 13:31:23.971 [main] GoogleSearch - https://www.wikipedia.org
+[INFO ] 2024-01-24 13:33:39.041 [main] GoogleSearch - Google search page is loading
+[INFO ] 2024-01-24 13:33:40.527 [main] GoogleSearch - Google searching for search item
+[INFO ] 2024-01-24 13:33:43.889 [main] GoogleSearch - https://www.wikipedia.org
+[INFO ] 2024-01-24 13:33:43.896 [main] GoogleSearch - Yahoo search page is loading
+[INFO ] 2024-01-24 13:34:12.741 [main] GoogleSearch - Yahoo searching for search item
+[INFO ] 2024-01-24 13:34:15.054 [main] GoogleSearch - www.wikipedia.org
+[INFO ] 2024-01-24 13:34:15.058 [main] GoogleSearch - Bing search page is loading
+[INFO ] 2024-01-24 13:34:15.945 [main] GoogleSearch - Bing searching for search item
+[INFO ] 2024-01-24 13:34:17.987 [main] GoogleSearch - https://www.wikipedia.org
+[INFO ] 2024-01-24 13:50:23.286 [main] MultipleSearchEngines - Google search page is loading
+[INFO ] 2024-01-24 13:50:24.910 [main] MultipleSearchEngines - Google searching for search item
+[INFO ] 2024-01-24 13:50:27.436 [main] MultipleSearchEngines - https://www.wikipedia.org
+[INFO ] 2024-01-24 13:50:27.448 [main] MultipleSearchEngines - Yahoo search page is loading
+[INFO ] 2024-01-24 13:50:56.232 [main] MultipleSearchEngines - Yahoo searching for search item
+[INFO ] 2024-01-24 13:50:58.226 [main] MultipleSearchEngines - www.wikipedia.org
+[INFO ] 2024-01-24 13:50:58.230 [main] MultipleSearchEngines - Bing search page is loading
+[INFO ] 2024-01-24 13:50:58.629 [main] MultipleSearchEngines - Bing searching for search item
+[INFO ] 2024-01-24 13:51:01.152 [main] MultipleSearchEngines - https://www.wikipedia.org
+[INFO ] 2024-01-24 15:39:20.026 [main] MultipleSearchEngines - Google search page is loading
+[INFO ] 2024-01-24 15:39:21.451 [main] MultipleSearchEngines - Google searching for search item
+[INFO ] 2024-01-24 15:39:23.998 [main] MultipleSearchEngines - https://www.wikipedia.org
+[INFO ] 2024-01-24 15:39:24.009 [main] MultipleSearchEngines - Yahoo search page is loading
+[INFO ] 2024-01-24 15:39:51.213 [main] MultipleSearchEngines - Yahoo searching for search item
+[INFO ] 2024-01-24 15:39:53.094 [main] MultipleSearchEngines - www.wikipedia.org
+[INFO ] 2024-01-24 15:39:53.095 [main] MultipleSearchEngines - Bing search page is loading
+[INFO ] 2024-01-24 15:39:53.405 [main] MultipleSearchEngines - Bing searching for search item
+[INFO ] 2024-01-24 15:46:41.493 [main] MultipleSearchEngines - Google search page is loading
+[INFO ] 2024-01-24 15:46:42.553 [main] MultipleSearchEngines - Google searching for search item
+[INFO ] 2024-01-24 15:46:44.831 [main] MultipleSearchEngines - https://www.wikipedia.org
+[INFO ] 2024-01-24 15:46:44.842 [main] MultipleSearchEngines - Yahoo search page is loading
+[INFO ] 2024-01-24 15:46:50.169 [main] MultipleSearchEngines - Yahoo searching for search item
+[INFO ] 2024-01-24 15:47:20.882 [main] MultipleSearchEngines - Bing search page is loading
+[INFO ] 2024-01-24 15:47:21.374 [main] MultipleSearchEngines - Bing searching for search item
+[INFO ] 2024-01-24 15:50:26.459 [main] MultipleSearchEngines - Google search page is loading
+[INFO ] 2024-01-24 15:50:27.623 [main] MultipleSearchEngines - Google searching for search item
+[INFO ] 2024-01-24 15:50:29.427 [main] MultipleSearchEngines - https://www.wikipedia.org
+[INFO ] 2024-01-24 15:50:29.437 [main] MultipleSearchEngines - Yahoo search page is loading
+[INFO ] 2024-01-24 15:50:57.483 [main] MultipleSearchEngines - Yahoo searching for search item
+[INFO ] 2024-01-24 15:50:59.600 [main] MultipleSearchEngines - www.wikipedia.org
+[INFO ] 2024-01-24 15:50:59.601 [main] MultipleSearchEngines - Bing search page is loading
+[INFO ] 2024-01-24 15:51:00.098 [main] MultipleSearchEngines - Bing searching for search item
+[INFO ] 2024-01-24 15:51:59.587 [main] MultipleSearchEngines - Google search page is loading
+[INFO ] 2024-01-24 15:52:00.874 [main] MultipleSearchEngines - Google searching for search item
+[INFO ] 2024-01-24 15:52:03.260 [main] MultipleSearchEngines - https://www.wikipedia.org
+[INFO ] 2024-01-24 15:52:03.270 [main] MultipleSearchEngines - Yahoo search page is loading
+[INFO ] 2024-01-24 15:52:05.242 [main] MultipleSearchEngines - Yahoo searching for search item
+[INFO ] 2024-01-24 15:52:08.131 [main] MultipleSearchEngines - www.wikipedia.org
+[INFO ] 2024-01-24 15:52:08.135 [main] MultipleSearchEngines - Bing search page is loading
+[INFO ] 2024-01-24 15:52:08.525 [main] MultipleSearchEngines - Bing searching for search item
+[INFO ] 2024-01-24 16:05:16.130 [main] MultipleSearchEngines - Bing search page is loading
+[INFO ] 2024-01-24 16:05:21.057 [main] MultipleSearchEngines - Bing searching for search item
+[INFO ] 2024-01-24 16:05:23.217 [main] MultipleSearchEngines - https://www.wikipedia.org
+[INFO ] 2024-01-24 16:06:56.747 [main] MultipleSearchEngines - Bing search page is loading
+[INFO ] 2024-01-24 16:06:57.139 [main] MultipleSearchEngines - Bing searching for search item
+[INFO ] 2024-01-24 16:07:57.547 [main] MultipleSearchEngines - Google search page is loading
+[INFO ] 2024-01-24 16:07:58.982 [main] MultipleSearchEngines - Google searching for search item
+[INFO ] 2024-01-24 16:08:01.266 [main] MultipleSearchEngines - https://www.wikipedia.org
+[INFO ] 2024-01-24 16:10:34.561 [main] MultipleSearchEngines - Bing search page is loading
+[INFO ] 2024-01-24 16:10:35.008 [main] MultipleSearchEngines - Bing searching for search item
+[INFO ] 2024-01-24 16:11:35.373 [main] MultipleSearchEngines - Google search page is loading
+[INFO ] 2024-01-24 16:11:37.078 [main] MultipleSearchEngines - Google searching for search item
+[INFO ] 2024-01-24 16:11:39.439 [main] MultipleSearchEngines - https://www.wikipedia.org
+[INFO ] 2024-01-24 16:12:23.267 [main] MultipleSearchEngines - Bing search page is loading
+[INFO ] 2024-01-24 16:12:23.711 [main] MultipleSearchEngines - Bing searching for search item
+[INFO ] 2024-01-24 16:12:25.577 [main] MultipleSearchEngines - https://www.wikipedia.org
+[INFO ] 2024-01-24 16:12:42.466 [main] MultipleSearchEngines - Bing search page is loading
+[INFO ] 2024-01-24 16:12:42.844 [main] MultipleSearchEngines - Bing searching for search item
+[INFO ] 2024-01-24 16:12:45.350 [main] MultipleSearchEngines - https://www.wikipedia.org
+[INFO ] 2024-01-24 16:13:01.484 [main] MultipleSearchEngines - Bing search page is loading
+[INFO ] 2024-01-24 16:13:01.884 [main] MultipleSearchEngines - Bing searching for search item
+[INFO ] 2024-01-24 16:13:04.059 [main] MultipleSearchEngines - https://www.wikipedia.org
+[INFO ] 2024-01-24 16:14:04.201 [main] MultipleSearchEngines - Bing search page is loading
+[INFO ] 2024-01-24 16:14:04.608 [main] MultipleSearchEngines - Bing searching for search item
+[INFO ] 2024-01-24 16:15:05.016 [main] MultipleSearchEngines - Google search page is loading
+[INFO ] 2024-01-24 16:15:06.125 [main] MultipleSearchEngines - Google searching for search item
+[INFO ] 2024-01-24 16:15:08.387 [main] MultipleSearchEngines - https://www.wikipedia.org
+[INFO ] 2024-01-24 16:19:32.948 [main] MultipleSearchEngines - Bing search page is loading
+[INFO ] 2024-01-24 16:19:33.325 [main] MultipleSearchEngines - Bing searching for search item
+[INFO ] 2024-01-24 16:22:47.825 [main] MultipleSearchEngines - Bing search page is loading
+[INFO ] 2024-01-24 16:22:48.201 [main] MultipleSearchEngines - Bing searching for search item
+[INFO ] 2024-01-24 16:26:15.204 [main] MultipleSearchEngines - Google search page is loading
+[INFO ] 2024-01-24 16:26:16.376 [main] MultipleSearchEngines - Google searching for search item
+[INFO ] 2024-01-24 16:26:18.769 [main] MultipleSearchEngines - https://www.wikipedia.org
+[INFO ] 2024-01-24 16:26:18.776 [main] MultipleSearchEngines - Bing search page is loading
+[INFO ] 2024-01-24 16:26:19.163 [main] MultipleSearchEngines - Bing searching for search item
+[INFO ] 2024-01-24 16:27:14.889 [TestNG-test-Test-2] MultipleSearchEngines - Google search page is loading
+[INFO ] 2024-01-24 16:27:14.890 [TestNG-test-Test-1] MultipleSearchEngines - Bing search page is loading
+[INFO ] 2024-01-24 16:27:15.784 [TestNG-test-Test-1] MultipleSearchEngines - Bing searching for search item
+[INFO ] 2024-01-24 16:27:16.957 [TestNG-test-Test-2] MultipleSearchEngines - Google searching for search item
+[INFO ] 2024-01-24 16:27:19.408 [TestNG-test-Test-1] MultipleSearchEngines - https://www.wikipedia.org
+[INFO ] 2024-01-24 16:28:41.924 [TestNG-test-Test-2] MultipleSearchEngines - Google search page is loading
+[INFO ] 2024-01-24 16:28:41.924 [TestNG-test-Test-1] MultipleSearchEngines - Bing search page is loading
+[INFO ] 2024-01-24 16:28:42.347 [TestNG-test-Test-1] MultipleSearchEngines - Bing searching for search item
+[INFO ] 2024-01-24 16:28:42.522 [TestNG-test-Test-2] MultipleSearchEngines - Google searching for search item
+[INFO ] 2024-01-24 16:28:47.526 [TestNG-test-Test-2] MultipleSearchEngines - https://www.wikipedia.org
+[INFO ] 2024-01-24 16:29:28.075 [TestNG-test-Test-1] MultipleSearchEngines - Bing search page is loading
+[INFO ] 2024-01-24 16:29:28.075 [TestNG-test-Test-2] MultipleSearchEngines - Google search page is loading
+[INFO ] 2024-01-24 16:29:28.419 [TestNG-test-Test-1] MultipleSearchEngines - Bing searching for search item
+[INFO ] 2024-01-24 16:29:29.579 [TestNG-test-Test-2] MultipleSearchEngines - Google searching for search item
+[INFO ] 2024-01-24 16:29:32.023 [TestNG-test-Test-1] MultipleSearchEngines - https://www.wikipedia.org
+[INFO ] 2024-01-24 16:29:55.835 [TestNG-test-Test-2] MultipleSearchEngines - Google search page is loading
+[INFO ] 2024-01-24 16:29:55.836 [TestNG-test-Test-1] MultipleSearchEngines - Bing search page is loading
+[INFO ] 2024-01-24 16:29:56.941 [TestNG-test-Test-2] MultipleSearchEngines - Google searching for search item
+[INFO ] 2024-01-24 16:29:57.236 [TestNG-test-Test-1] MultipleSearchEngines - Bing searching for search item
+[INFO ] 2024-01-24 16:29:59.588 [TestNG-test-Test-1] MultipleSearchEngines - https://www.wikipedia.org
+[INFO ] 2024-01-24 16:30:53.411 [main] MultipleSearchEngines - Bing search page is loading
+[INFO ] 2024-01-24 16:30:53.822 [main] MultipleSearchEngines - Bing searching for search item
+[INFO ] 2024-01-24 16:34:16.012 [main] MultipleSearchEngines - Bing search page is loading
+[INFO ] 2024-01-24 16:34:16.375 [main] MultipleSearchEngines - Bing searching for search item
+[INFO ] 2024-01-24 16:41:10.754 [main] MultipleSearchEngines - Bing search page is loading
+[INFO ] 2024-01-24 16:41:11.143 [main] MultipleSearchEngines - Bing searching for search item
+[INFO ] 2024-01-24 16:41:12.953 [main] MultipleSearchEngines - https://www.wikipedia.org
+[INFO ] 2024-01-24 16:44:55.499 [main] MultipleSearchEngines - Google search page is loading
+[INFO ] 2024-01-24 16:44:56.830 [main] MultipleSearchEngines - Google searching for search item
+[INFO ] 2024-01-24 16:44:58.519 [main] MultipleSearchEngines - https://www.wikipedia.org
+[INFO ] 2024-01-24 16:44:58.527 [main] MultipleSearchEngines - Yahoo search page is loading
+[INFO ] 2024-01-24 16:45:26.455 [main] MultipleSearchEngines - Yahoo searching for search item
+[INFO ] 2024-01-24 16:45:28.458 [main] MultipleSearchEngines - www.wikipedia.org
+[INFO ] 2024-01-24 16:45:28.460 [main] MultipleSearchEngines - Bing search page is loading
+[INFO ] 2024-01-24 16:45:28.929 [main] MultipleSearchEngines - Bing searching for search item
+[INFO ] 2024-01-24 16:45:54.407 [main] MultipleSearchEngines - https://www.wikipedia.org
+[INFO ] 2024-01-24 16:46:35.042 [main] MultipleSearchEngines - Google search page is loading
+[INFO ] 2024-01-24 16:46:36.129 [main] MultipleSearchEngines - Google searching for search item
+[INFO ] 2024-01-24 16:46:37.912 [main] MultipleSearchEngines - https://www.wikipedia.org
+[INFO ] 2024-01-24 16:46:37.921 [main] MultipleSearchEngines - Yahoo search page is loading
+[INFO ] 2024-01-24 16:46:43.684 [main] MultipleSearchEngines - Yahoo searching for search item
+[INFO ] 2024-01-24 16:46:49.625 [main] MultipleSearchEngines - www.wikipedia.org
+[INFO ] 2024-01-24 16:46:49.627 [main] MultipleSearchEngines - Bing search page is loading
+[INFO ] 2024-01-24 16:46:50.008 [main] MultipleSearchEngines - Bing searching for search item
+[INFO ] 2024-01-24 16:46:52.037 [main] MultipleSearchEngines - https://www.wikipedia.org
+[INFO ] 2024-01-24 16:50:44.826 [main] MultipleSearchEngines - Google search page is loading
+[INFO ] 2024-01-24 16:50:46.267 [main] MultipleSearchEngines - Google searching for search item
+[INFO ] 2024-01-24 16:50:47.900 [main] MultipleSearchEngines - https://www.wikipedia.org
+[INFO ] 2024-01-24 16:50:47.914 [main] MultipleSearchEngines - Yahoo search page is loading
+[INFO ] 2024-01-24 16:50:53.740 [main] MultipleSearchEngines - Yahoo searching for search item
+[INFO ] 2024-01-24 16:50:57.304 [main] MultipleSearchEngines - www.wikipedia.org
+[INFO ] 2024-01-24 16:50:57.307 [main] MultipleSearchEngines - Bing search page is loading
+[INFO ] 2024-01-24 16:50:57.638 [main] MultipleSearchEngines - Bing searching for search item
+[INFO ] 2024-01-24 16:52:13.770 [main] MultipleSearchEngines - Google search page is loading
+[INFO ] 2024-01-24 16:52:15.102 [main] MultipleSearchEngines - Google searching for search item
+[INFO ] 2024-01-24 16:52:16.711 [main] MultipleSearchEngines - https://www.wikipedia.org
+[INFO ] 2024-01-24 16:52:16.718 [main] MultipleSearchEngines - Yahoo search page is loading
+[INFO ] 2024-01-24 16:52:44.532 [main] MultipleSearchEngines - Yahoo searching for search item
+[INFO ] 2024-01-24 16:52:47.201 [main] MultipleSearchEngines - www.wikipedia.org
+[INFO ] 2024-01-24 16:52:47.205 [main] MultipleSearchEngines - Bing search page is loading
+[INFO ] 2024-01-24 16:52:47.599 [main] MultipleSearchEngines - Bing searching for search item
+[INFO ] 2024-01-24 16:52:49.849 [main] MultipleSearchEngines - https://www.wikipedia.org
